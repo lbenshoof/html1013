@@ -20,8 +20,13 @@ width:100%;bakground-color:yellow; font-size:200%
 article {
 			Text-align: center;
 			width: 100%;
+	        font-family:acme
 			
 		}	
+body{
+	font-family:"crafty-girls"
+		
+}
 aside{
 float:left;
 margin-top:10px;
